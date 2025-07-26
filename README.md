@@ -1,16 +1,18 @@
 # RBXMAO
 
 #### 介绍
-RBXMAO APP项目
+一个用来显示Web网站页面的APP
+没错
+就是用来显示网站的
 
 #### 软件架构
-基于HTML开发
+基于C++、C开发
 
 
-#### 安装教程（仅限专业人员，APK文件加Q群1011048831）
+#### 构建
 
 1.  拉取文件
-2.  APK构建
+2.  用Gradle进行构建
 
 #### 参与贡献
 
@@ -20,6 +22,6 @@ RBXMAO APP项目
 4.  新建 Pull Request
 
 
-#### 特技
+#### 博客
 
-1.  RBXMAO官方博客 [rbxmaofu.maoaoll.asia](https://blog.maoyyds.cn)
+1.  [blog.maoyyds.cn](https://blog.maoyyds.cn)
